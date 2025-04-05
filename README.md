@@ -8,25 +8,6 @@ This is Ecosearch Assignment.
 - **Privacy First**: Does not collect or store any data, ensuring user privacy.
 - **Minimal Design**: A design system that minimizes the carbon footprint during user interaction.
 
-
-ecosearch/
-├── public/               # Static assets
-├── src/
-|   ├── assets
-│   ├── components/       # React components
-│   │   ├── Features.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Header.jsx
-│   │   ├── Hero.jsx
-│   │   ├── FeatureCard.jsx
-│   │   └── Footer.jsx
-│   ├── App.jsx           # Main application
-│   ├── main.jsx          # Entry point
-│   └── index.css         # Tailwind directives
-├── tailwind.config.js    # Tailwind configuration
-├── package.json
-└── README.md
-
 ## Getting Started
 
 To get started with the project, follow these steps:
